@@ -4,3 +4,5 @@ pyautogui
 pillow
 pytesseract
 pygetwindow
+opencv-python
+keyboard
