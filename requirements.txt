@@ -1,0 +1,6 @@
+tk
+pyscreenshot
+pyautogui
+pillow
+pytesseract
+pygetwindow
